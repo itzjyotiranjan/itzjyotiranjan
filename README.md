@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is JYOTI RANJAN JENA and I'm a DATA ANALYST, from INDIA</h2>
+<h2 align="left">Hi 👋! My name is Jyoti Ranjan Jena and I'm a DATA ANALYST, from INDIA</h2>
 
 ###
 
