@@ -1,6 +1,15 @@
 <h2 align="left">Hi 👋! My name is Jyoti Ranjan Jena and I'm a DATA ANALYST, from INDIA</h2>
 
-<img align="right" src="YOUR_GIF_URL" width="150" height="150" style="border-radius:50%;object-fit:cover;" />
+<img src="YOUR_GIF_URL" alt="AI GIF" class="circle-gif" />
+
+<style>
+  .circle-gif{
+    float:right;
+    width:150px;height:150px;
+    border-radius:50%;
+    object-fit:cover; /* keeps it perfectly round */
+  }
+</style>
 
 
 <div align="left">
