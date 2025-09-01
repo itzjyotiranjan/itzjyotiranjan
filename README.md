@@ -1,9 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jyoti Ranjan Jena and I'm a DATA ANALYST, from INDIA</h2>
-
-###
-<img align="right" height="150" src="/mnt/data/ChatGPT Image Sep 1, 2025, 09_35_40 PM.png" style="border-radius:50%; object-fit:cover;" />
-###
-
+<h2 align="left">Hi 👋! My name is Jyoti Ranjan Jena and I'm a DATA Entry Specialist, from INDIA</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
