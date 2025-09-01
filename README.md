@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Jyoti Ranjan Jena and I'm a DATA ANALYST, from INDIA</h2>
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" style="border-radius:50%; width:150px; height:150px; object-fit:cover;" alt="circular gif" /> 
+<img align="right" height="150" src="/mnt/data/ChatGPT Image Sep 1, 2025, 09_35_40 PM.png" style="border-radius:50%; object-fit:cover;" />
 ###
 
 
