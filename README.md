@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Jyoti Ranjan Jena and I'm a DATA ANALYST, from INDIA</h2>
 
+<img align="right" src="YOUR_GIF_URL" width="150" height="150" style="border-radius:50%;object-fit:cover;" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
